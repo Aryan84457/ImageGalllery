@@ -1,4 +1,4 @@
 # ImageGalllery
 My first repository
 <br>
-author- missing
+author- Aryan Agarwal
